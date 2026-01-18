@@ -63,5 +63,18 @@ The bot automatically monitors prices for selected items (e.g., on OLX.pl) and i
 Manage your tracking list from anywhere:
 
 * `/add [url] [price]` — Add a new item to track
-* `/remove` — Remove an item from tracking
+* `/remove [ID]` — Remove an item from tracking
 * `/list` — Receive all of your items that you're tracking
+
+### Via Terminal (Menu):
+When running locally, you have access to the console menu:
+1.  **Add Product** (Manual entry).
+2.  **Check Prices Now** (Force update).
+3.  **Start Auto-Monitoring** (Enters the hourly loop).
+
+---
+
+## 👨‍💻 Author
+
+Created as a learning project to automate the routine hunt for LEGO sets and other treasures.
+Open for suggestions and improvements!
