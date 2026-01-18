@@ -63,3 +63,5 @@ The bot automatically monitors prices for selected items (e.g., on OLX.pl) and i
 Manage your tracking list from anywhere:
 
 * `/add [url] [price]` — Add a new item to track
+* `/remove` — Remove an item from tracking
+* `/list` — Receive all of your items that you're tracking
